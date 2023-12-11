@@ -16,8 +16,8 @@ Currently under submission
 [[eprint]](https://eprint.iacr.org/2022/923){: .btn}
 
 
-**Residential Flexibility Characterization and Trading Using Secure Multiparty Computation**\*\
-F. Zobiri, M. Gama, S. Petkova-Nikova and G. Deconinck\
+**Residential Flexibility Characterization and Trading Using Secure Multiparty Computation**\
+\*F. Zobiri, M. Gama, S. Petkova-Nikova and G. Deconinck\
 International Journal of Electrical Power & Energy Systems
 [[paper]](https://www.sciencedirect.com/science/article/pii/S0142061523006610){: .btn}
 
@@ -26,9 +26,7 @@ International Journal of Electrical Power & Energy Systems
 J. Chiang, M. Botelho da Gama, B. David and C. Lebeda\
 ASIACRYPT 2023
 [[eprint]](https://eprint.iacr.org/2023/096){: .btn} [[video]](https://youtu.be/TGYsAmcTZPg?si=qdtB2mRnBwNNo6rv){: .btn} 
-{::comment}
-[[slides]](https://eprint.iacr.org/2022/923){: .btn}
-{:/comment}
+[[slides]](https://maargama.github.io/slides/relays.pdf){: .btn}
 
 
 **Correlated-Output-Differential-Privacy and Applications to Dark Pools**\
@@ -37,19 +35,19 @@ AFT 2023
 [[eprint]](https://eprint.iacr.org/2023/943){: .btn}
  
 
-**Multi-Party Computation Auction Mechanisms for a P2P Electricity Market with Geographical Prioritization**\*\
-M. Gama, F. Zobiri and S. Petkova-Nikova\
+**Multi-Party Computation Auction Mechanisms for a P2P Electricity Market with Geographical Prioritization**\
+\*M. Gama, F. Zobiri and S. Petkova-Nikova\
 CIGRE 2022 Kyoto Symposium
 [[preprint]](https://cosicdatabase.esat.kuleuven.be/backend/publications/files/conferencepaper/3526){: .btn}
 
 
-**A Privacy-Preserving Peer-to-Peer Market using Demand Response and Multiparty Computation**\*\
-F. Zobiri, M. Gama, S. Petkova-Nikova and G. Deconinck\
+**A Privacy-Preserving Peer-to-Peer Market using Demand Response and Multiparty Computation**\
+\*F. Zobiri, M. Gama, S. Petkova-Nikova and G. Deconinck\
 CIGRE 2022 Kyoto Symposium
 
 
-**A Privacy-Preserving Three-Step Demand Response Market Using Multi-Party Computation**\*\
-F. Zobiri, M. Gama, S. Petkova-Nikova and G. Deconinck\
+**A Privacy-Preserving Three-Step Demand Response Market Using Multi-Party Computation**\
+\*F. Zobiri, M. Gama, S. Petkova-Nikova and G. Deconinck\
 IEEE ISGT NA 2022
 [[paper]](https://ieeexplore.ieee.org/document/9817546){: .btn}
 

@@ -5,7 +5,7 @@ author_profile: true
 permalink: /
 ---
 
-I am a PhD researcher at [COSIC, KU Leuven](https://www.esat.kuleuven.be/cosic/) under the supervision of Nigel Smart and Svetla Nikova. 
+I am a PhD researcher at [COSIC, KU Leuven](https://www.esat.kuleuven.be/cosic/) under the supervision of [Nigel Smart](https://nigelsmart.github.io/) and [Svetla Nikova](https://www.esat.kuleuven.be/cosic/people/svetla-petkova-nikova/). 
 My research interests revolve around the applications and practical aspects of multiparty computation.
 
 From March to August 2023, I did a research internship at Nokia Bell Labs in Antwerp, where I worked on delegating the computation of zero-knowledge proofs.
