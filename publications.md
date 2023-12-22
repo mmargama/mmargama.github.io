@@ -23,7 +23,7 @@ International Journal of Electrical Power & Energy Systems
 
 
 **MPC With Delayed Parties Over Star-Like Networks**\
-J. Chiang, M. Botelho da Gama, B. David and C. Lebeda\
+M. Gama, E. Heydari Beni, E. Orsini, N. Smart and O. Zajonc\
 ASIACRYPT 2023
 [[eprint]](https://eprint.iacr.org/2023/096){: .btn} [[video]](https://youtu.be/TGYsAmcTZPg?si=qdtB2mRnBwNNo6rv){: .btn} 
 [[slides]](https://maargama.github.io/slides/relays.pdf){: .btn}
