@@ -116,7 +116,7 @@ author:
   bio              : " "
   #location        : "Somewhere"
   #email            : "mariana.botelhodagama@esat.kuleuven.be"
-  #github           : "maargama"
+  #github           : "mmargama"
   #google_scholar   : "https://scholar.google.com/citations?user=ZztKq4wAAAAJ&hl=en/"
  
   links:
@@ -134,7 +134,7 @@ author:
     #  # url: "https://facebook.com/"
     #- label: "github"
     #icon: "fab fa-fw fa-github"
-    #url: "https://github.com/maargama"
+    #url: "https://github.com/mmargama"
   - label: "scholar"
     icon: "fab fa-fw fa-google"
     url: "https://scholar.google.com/citations?user=ZztKq4wAAAAJ&hl=en/"

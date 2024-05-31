@@ -26,7 +26,7 @@ International Journal of Electrical Power & Energy Systems
 M. Gama, E. Heydari Beni, E. Orsini, N. Smart and O. Zajonc\
 ASIACRYPT 2023
 [[eprint]](https://eprint.iacr.org/2023/096){: .btn} [[video]](https://youtu.be/TGYsAmcTZPg?si=qdtB2mRnBwNNo6rv){: .btn} 
-[[slides]](https://maargama.github.io/slides/relays.pdf){: .btn}
+[[slides]](https://mmargama.github.io/slides/relays.pdf){: .btn}
 
 
 **Correlated-Output-Differential-Privacy and Applications to Dark Pools**\
