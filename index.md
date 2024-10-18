@@ -17,8 +17,8 @@ Before that, I received my MSc in Applied Mathematics and my BSc in Physics from
 
 
 ### News
-- I will be attending ASIACRYPT 2023 in Guangzhou and presenting our work. 
-- I won an "Outstanding Student Research Award" for the work done during my internship at Bell Labs.
-- Our paper "MPC With Delayed Parties Over Star-Like Networks" has been accepted at ASIACRYPT 2023.
-- Our paper "Correlated-Output-Differential-Privacy and Applications to Dark Pools" has been accepted at AFT 2023.
-- I will be presenting a preliminary version of the work "Correlated-Output-Differential-Privacy and Applications to Dark Pools" at the DeFi workshop affiliated with FC 2023.
+- **[October 24] -** Our paper [Blind zkSNARKs for Private Proof Delegation and Verifiable Computation over Encrypted Data](https://eprint.iacr.org/2024/1684) is now available online! 
+- **[July 24] -** I will be presenting recent results on zero-knowledge proof delegation at the [Portugal Crypto Day](https://cryptoday.pt/) in December. 
+- **[September 23] -** I won an "Outstanding Student Research Award" for the work done during my internship at Bell Labs.
+- **[August 23] -** Our paper "MPC With Delayed Parties Over Star-Like Networks" has been accepted at ASIACRYPT 2023.
+- **[July 23] -** Our paper "Correlated-Output-Differential-Privacy and Applications to Dark Pools" has been accepted at AFT 2023.

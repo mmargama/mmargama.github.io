@@ -10,8 +10,14 @@ font-size: small
 (authors ordered alphabetically except for publications marked with \*)
 </small>
 
+**Blind zkSNARKs for Private Proof Delegation and Verifiable Computation over Encrypted Data**\
+M. Gama, E. Heydari Beni, J. Kang, J. Spiessens and F. Vercauteren\
+Currently under submission
+[[eprint]](https://eprint.iacr.org/2024/1684){: .btn} [[blog]](https://www.esat.kuleuven.be/cosic/blog/blind-zksnarks/){: .btn}
+
+
 **All for one and one for all: Fully decentralised privacy-preserving dark pool trading using multi-party computation**\
-M. Botelho da Gama, Y. Talibi Alaoui, J. Cartlidge and N. Smart\
+M. Gama, Y. Talibi Alaoui, J. Cartlidge and N. Smart\
 Currently under submission
 [[eprint]](https://eprint.iacr.org/2022/923){: .btn}
 
@@ -53,7 +59,7 @@ IEEE ISGT NA 2022
 
 
 **Kicking-the-Bucket: Fast Privacy-Preserving Trading Using Buckets**\
-M. Botelho da Gama, J. Cartlidge, A. Polychroniadou, N. Smart and Y. Talibi Alaoui\
+M. Gama, J. Cartlidge, A. Polychroniadou, N. Smart and Y. Talibi Alaoui\
 FC 2022
 [[eprint]](https://eprint.iacr.org/2021/1549){: .btn} [[video]](https://youtu.be/_Puji2Q51y4?si=8KjHk8bWNuf1Tvgp){: .btn} 
 {::comment}
@@ -62,7 +68,7 @@ FC 2022
 
 
 **Labeled PSI from Homomorphic Encryption with Reduced Computation and Communication**\
-K. Cong, R. Cruz Moreno, M. Botelho da Gama, W. Dai, I. Iliashenko, K. Laine and M. Rosenberg\
+K. Cong, R. Cruz Moreno, M. Gama, W. Dai, I. Iliashenko, K. Laine and M. Rosenberg\
 CCS 2021
 [[eprint]](https://eprint.iacr.org/2021/1116){: .btn}
 
