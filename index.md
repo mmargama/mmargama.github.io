@@ -18,7 +18,7 @@ Before that, I received my MSc in Applied Mathematics and my BSc in Physics from
 
 
 ### News
-- **[March 25] -** -** Our paper on [Blind zkSNARKs](https://eprint.iacr.org/2024/1684) was accepted to be presented at [ZKProof 7](https://zkproof.org/events/zkproof-7-sofia/) and at the [FHE.org 2025 conference](https://fhe.org/conferences/conference-2025/).
+- **[March 25] -** Our paper on [Blind zkSNARKs](https://eprint.iacr.org/2024/1684) was accepted to be presented at [ZKProof 7](https://zkproof.org/events/zkproof-7-sofia/) and at the [FHE.org 2025 conference](https://fhe.org/conferences/conference-2025/).
 - **[February 25] -** I defended my PhD thesis "MPC in the Real World: Practical Aspects of Multi-Party Computation".
 - **[October 24] -** Our paper [Blind zkSNARKs for Private Proof Delegation and Verifiable Computation over Encrypted Data](https://eprint.iacr.org/2024/1684) is now available online! 
 - **[July 24] -** I will be presenting recent results on zero-knowledge proof delegation at the [Portugal Crypto Day](https://cryptoday.pt/) in December. 
