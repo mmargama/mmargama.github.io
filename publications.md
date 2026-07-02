@@ -10,16 +10,16 @@ font-size: small
 (authors ordered alphabetically except for publications marked with \*)
 </small>
 
+**FRIttata: A FRI-based Polynomial Commitment Scheme for Distributed Proof Generation**\
+\*H. Xu, M. Gama, E. Heydari Beni, J. Kang and J. Kang\
+Communications in Cryptology Volume 2, Issue 4
+[[eprint]](https://eprint.iacr.org/2025/1285){: .btn} [[blog]](https://www.esat.kuleuven.be/cosic/blog/blind-zksnarks/){: .btn}
+
+
 **Blind zkSNARKs for Private Proof Delegation and Verifiable Computation over Encrypted Data**\
 M. Gama, E. Heydari Beni, J. Kang, J. Spiessens and F. Vercauteren\
-Currently under submission
+Communications in Cryptology Volume 2, Issue 3
 [[eprint]](https://eprint.iacr.org/2024/1684){: .btn} [[blog]](https://www.esat.kuleuven.be/cosic/blog/blind-zksnarks/){: .btn}
-
-
-**All for one and one for all: Fully decentralised privacy-preserving dark pool trading using multi-party computation**\
-M. Gama, Y. Talibi Alaoui, J. Cartlidge and N. Smart\
-Currently under submission
-[[eprint]](https://eprint.iacr.org/2022/923){: .btn}
 
 
 **Residential Flexibility Characterization and Trading Using Secure Multiparty Computation**\
@@ -39,7 +39,13 @@ ASIACRYPT 2023
 J. Chiang, M. Gama, B. David and C. Lebeda\
 AFT 2023
 [[eprint]](https://eprint.iacr.org/2023/943){: .btn}
+
  
+**All for one and one for all: Fully decentralised privacy-preserving dark pool trading using multi-party computation**\
+M. Gama, Y. Talibi Alaoui, J. Cartlidge and N. Smart\
+Preprint
+[[eprint]](https://eprint.iacr.org/2022/923){: .btn}
+
 
 **Multi-Party Computation Auction Mechanisms for a P2P Electricity Market with Geographical Prioritization**\
 \*M. Gama, F. Zobiri and S. Petkova-Nikova\

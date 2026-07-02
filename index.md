@@ -5,7 +5,7 @@ author_profile: true
 permalink: /
 ---
 
-I am currently a postdoc at [COSIC, KU Leuven](https://www.esat.kuleuven.be/cosic/), where I also completed my PhD in 2025 under the supervision of [Nigel Smart](https://nigelsmart.github.io/) and [Svetla Nikova](https://www.esat.kuleuven.be/cosic/people/svetla-petkova-nikova/).
+I am a postdoc at Bocconi University, working with [Emmanuela Orsini](https://cseao.github.io/). Before that, I was a postdoc at [COSIC, KU Leuven](https://www.esat.kuleuven.be/cosic/), where I also completed my PhD in 2025 under the supervision of [Nigel Smart](https://nigelsmart.github.io/) and [Svetla Nikova](https://www.esat.kuleuven.be/cosic/people/svetla-petkova-nikova/).
 My research interests revolve around the applications and practical aspects of multi-party computation, as well as the interactions between MPC and other PETs, namely zero-knowledge proofs and homomorphic encryption.
 
 
@@ -25,8 +25,8 @@ Before that, I received my MSc in Applied Mathematics and my BSc in Physics from
 Besides the SEAL-based implementation, there is also a version of the protocol with nearly constant communication implemented in HElib. 
 
 ### News
+- **[June 26] -** I am now a postdoc at Bocconi University!
+- **[May 26] -** I was awarded an FWO postdoctoral fellowship.
+- **[February 26] -** I joined the editorial board for the IACR Communications in Cryptology journal.
+- **[December 25] -** Our paper [FRIttata: Distributed Proof Generation of FRI-based SNARKs](https://eprint.iacr.org/2025/1285) was accepted to the IACR CiC journal!
 - **[August 25] -** I will be part of the Program Committees for EuroS&P 2026 and CCS 2026.
-- **[July 25] -** Our paper [FRIttata: Distributed Proof Generation of FRI-based SNARKs](https://eprint.iacr.org/2025/1285) is now available online!
-- **[April 25] -** I will be attending the [Dagstuhl seminar]( https://www.dagstuhl.de/25312) on privacy-preserving technologies of societal impact at the end of July.
-- **[March 25] -** Our paper on [Blind zkSNARKs](https://eprint.iacr.org/2024/1684) was accepted to be presented at [ZKProof 7](https://zkproof.org/events/zkproof-7-sofia/) and at the [FHE.org 2025 conference](https://fhe.org/conferences/conference-2025/).
-- **[February 25] -** I defended my PhD thesis "MPC in the Real World: Practical Aspects of Multi-Party Computation".
